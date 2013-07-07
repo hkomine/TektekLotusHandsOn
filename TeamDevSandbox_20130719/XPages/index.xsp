@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core">
+
+	<xp:panel style="padding-left:20.0px">
+		<xp:link escape="true" text="addressbook" id="link"
+			value="/addressbook.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook01" id="link01"
+			value="/addressbook01.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook02" id="link02"
+			value="/addressbook02.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook03" id="link03"
+			value="/addressbook03.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook04" id="link04"
+			value="/addressbook04.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook05" id="link05"
+			value="/addressbook05.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook06" id="link06"
+			value="/addressbook06.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook07" id="link07"
+			value="/addressbook07.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook08" id="link08"
+			value="/addressbook08.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook09" id="link09"
+			value="/addressbook09.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook10" id="link10"
+			value="/addressbook10.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook11" id="link11"
+			value="/addressbook11.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook12" id="link12"
+			value="/addressbook12.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook13" id="link13"
+			value="/addressbook13.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook14" id="link14"
+			value="/addressbook14.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook15" id="link15"
+			value="/addressbook15.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook16" id="link16"
+			value="/addressbook16.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook17" id="link17"
+			value="/addressbook17.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook18" id="link18"
+			value="/addressbook18.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook19" id="link19"
+			value="/addressbook19.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook20" id="link20"
+			value="/addressbook20.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook21" id="link21"
+			value="/addressbook21.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook22" id="link22"
+			value="/addressbook22.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook23" id="link23"
+			value="/addressbook23.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook24" id="link24"
+			value="/addressbook24.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook25" id="link25"
+			value="/addressbook25.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook26" id="link26"
+			value="/addressbook26.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook27" id="link27"
+			value="/addressbook27.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook28" id="link28"
+			value="/addressbook28.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook29" id="link92"
+			value="/addressbook29.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+		<xp:link escape="true" text="addressbook30" id="link30"
+			value="/addressbook30.xsp">
+		</xp:link>
+		<xp:br></xp:br>
+	</xp:panel>
+	<xp:br></xp:br>
+	<xp:button value="Create contacts" id="button1">
+		<xp:eventHandler event="onclick" submit="true"
+			refreshMode="partial" refreshId="panelResult">
+			<xp:this.action><![CDATA[#{javascript:
+				var db:NotesDatabase = session.getCurrentDatabase();
+				print ("create users (10) in " + db.getTitle());
+				try {
+					var d = new sandbox.DataInitializer(db);
+					d.initDeleteDocuments();
+					d.initUsers(10);
+					d.run();
+					viewScope.resultMessage = "Created 10 users";
+				} catch (e) {
+					viewScope.resultMessage = e.toString();
+				}
+			}]]></xp:this.action>
+		</xp:eventHandler></xp:button>
+	<xp:br></xp:br>
+	<xp:br></xp:br>
+	<xp:panel id="panelResult"><xp:panel style="background-color:rgb(243,243,243);border-color:rgb(0,0,0);margin-left:20.0px;height:30px;width:80%;padding-top:8.0px;padding-left:10.0px" rendered="#{javascript:viewScope.resultMessage}">
+		<xp:text escape="true" id="computedField1" value="#{javascript:viewScope.resultMessage}"></xp:text></xp:panel></xp:panel>
+	<xp:br></xp:br>
+	
+	<xp:br></xp:br>
+	</xp:view>
