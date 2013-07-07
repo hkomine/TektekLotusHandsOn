@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
+ replicaid='49257BA1001AB32E'>
+<noteinfo noteid='11a' unid='335964AB2B791A7849257BA1001AB336' sequence='8'>
+<created><datetime>20130707T135138,14+09</datetime></created>
+<modified><datetime>20130707T135144,46+09</datetime></modified>
+<revised><datetime>20130707T135144,45+09</datetime></revised>
+<lastaccessed><datetime>20130707T135144,46+09</datetime></lastaccessed>
+<addedtofile><datetime>20130707T135138,17+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=admin/O=LotusLab</name></updatedby>
+<wassignedby><name>CN=admin/O=LotusLab</name></wassignedby>
+<item name='$Daos'><text>0</text></item>
+<item name='IconBitmap' summary='true'>
+<rawitemdata type='6'>
+AiAgAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAADd3d3d3d0R3dEd3d3d3d3d3d3d3dEd0R0R3RHd3d3d3d3d3d3d
+EdEdEdEd3d3d3d3d3d3d3dHRHRHR3d3d3d3d3d3d3d3R0R0R0d3d3d3d3d3d3d3d0dEdEdHd3d3d
+3d3d3d3d3dHRHRHR3d3d3d3d3d3dERER0R0R0d3d3d3d3d3d3REREREdEdHd3d3d3d3d3dEd3dER
+ERER3d3d3d3d3d0R3d3REREREd3d3d3d3d3RHd3d3RERER3d3d3d3d3d0d3d0RERERERER3d3d3d
+3d3d0RERERERERERHd3d3d3d3RERERERERERERHd3d3d3dERERERERERERER3d3d3d0RERERERER
+ERERER3d3d3dEREREREREREREREd3d3d3REREREREREREREREd3d3dERERERERERERERERHd3d3R
+ERERERERERERERER3d3d0RERERERERERERERHd3d3d0RERERERERERERER3d3d3dERERERERERER
+EREd3d3d3RERERERERERERER3d3d3d3REREREREREREREd3d3d3d0RERERERERERER3d3d3d3d0R
+EREREREREREd3d3d3d3dERERERERERERHd3d3d3d3REd3d3d3d3RER3d3d3d3d0d3d3d3d3d3dHd
+3d3d3d3d3d3d3d3d3d3d3d3d3Q==
+</rawitemdata></item>
+<item name='$DefaultXPage'><text>index.xsp</text></item>
+<item name='$TITLE'><text>Team Dev Sandbox</text></item>
+<item name='$Flags'><text>J!</text></item>
+<item name='$FlagsNoRefresh'><text>rv</text></item></note>
+

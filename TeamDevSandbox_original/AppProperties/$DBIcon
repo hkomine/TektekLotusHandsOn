@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' replicaid='49257BA1001AB32E'>
+<noteinfo noteid='2f2' unid='BF276AA01042A25149257B84004369C3' sequence='2'>
+<created><datetime>20130608T211619,87+09</datetime></created>
+<modified><datetime>20130707T135144,30+09</datetime></modified>
+<revised><datetime>20130707T135144,29+09</datetime></revised>
+<lastaccessed><datetime>20130707T135144,30+09</datetime></lastaccessed>
+<addedtofile><datetime>20130707T135144,28+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=admin/O=LotusLab</name></updatedby>
+<wassignedby><name>CN=admin/O=LotusLab</name></wassignedby>
+<item name='$TITLE'><text>$DBIcon</text></item>
+<item name='$Flags'><text>34Ci~Q</text></item>
+<item name='$ImagesWide' sign='true'><number>1</number></item>
+<item name='$ImagesHigh' sign='true'><number>1</number></item>
+<item name='$ImagesColorize' sign='true'><number>0</number></item>
+<item name='$FileSize' sign='true'><number>1036</number></item>
+<item name='$ImageData' sign='true'>
+<rawitemdata type='1'>
+mQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAH0AHAAAAAIAAAAAAAwEAAABAAAAAAAAAAAAAAB8
+ABYEAAAMBAwE/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkS
+Ew8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgy
+IRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAAR
+CAAgACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgED
+AwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRol
+JicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWW
+l5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3
++Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3
+AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5
+OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaan
+qKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIR
+AxEAPwC18N9ItNX8SOl/aG5t44GbBXKB8gDd+G7HvXdz/Cfw9NO8iS38CseI45VKr9Nyk/may/g6
+0P2XVlVCJw8RduxXDbR+e7869OrerOSm7HlYHC0p4aLmk73OKsfhd4csrkTSC6uwBxHcSDaDkHOF
+Az06HjnpXlHiyxi03xXqVpBE0USTEohxwDyMY7c8e2K+jK8c+L3k/wDCRWW3d532Qb/Tbvbb+u79
+KdGcnPUjMcLThh7wSVmZHgxry2kmvtElL6tbqzPZOmVuLfjO0jksDzt4J4xkgivXPDmuX+rWcs+p
+6S+lbGCKJ3IMhxljhlGB+ff0r59trq4s7hbi1nlgmTO2SJyrDIwcEc9DXqWg+IJJdA+1axqcc88c
+dxMx8xSUjKBUU44DFs4U8n+VV4dTHK66vyN2t6W/4B0fjLxjJ4VW2ZNPF2s+5S/nbRGwAIBG09Qc
+9R0NeJ6xq95rupy6hfOGmkPRRhUHZQOwH/68mvQPiVqFpqGmKLa5hcrdLMB5igvG0SgMozlhnI46
+YNeY1VCK5b9THNas3V5L+6f/2Q==
+</rawitemdata></item>
+<item name='$MimeType' sign='true'><text>image/jpeg</text></item>
+<item name='$FileModDT' sign='true'><datetime>20130608T211804,56+09</datetime></item>
+<item name='$ImageNames' sign='true'><text>C:\Documents and Settings\Administrator\My Documents\ダウンロード\octcat2.bmp</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+

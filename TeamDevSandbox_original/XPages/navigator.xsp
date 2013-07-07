@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core">
+	<xp:table>
+		<xp:tr>
+			<xp:td><a href="./addressbook.xsp" target="preview">addressbook</a></xp:td>
+			<xp:td></xp:td>
+			<xp:td></xp:td>
+			<xp:td></xp:td>
+			<xp:td></xp:td>
+		</xp:tr>
+		<xp:tr>
+			<xp:td><a href="./addressbook01.xsp" target="preview">addressbook01</a></xp:td>
+			<xp:td><a href="./addressbook02.xsp" target="preview">addressbook02</a></xp:td>
+			<xp:td><a href="./addressbook03.xsp" target="preview">addressbook03</a></xp:td>
+			<xp:td><a href="./addressbook04.xsp" target="preview">addressbook04</a></xp:td>
+			<xp:td><a href="./addressbook05.xsp" target="preview">addressbook05</a></xp:td>
+		</xp:tr>
+		<xp:tr>
+			<xp:td><a href="./addressbook06.xsp" target="preview">addressbook06</a></xp:td>
+			<xp:td><a href="./addressbook07.xsp" target="preview">addressbook07</a></xp:td>
+			<xp:td><a href="./addressbook08.xsp" target="preview">addressbook08</a></xp:td>
+			<xp:td><a href="./addressbook09.xsp" target="preview">addressbook09</a></xp:td>
+			<xp:td><a href="./addressbook10.xsp" target="preview">addressbook10</a></xp:td>
+		</xp:tr>
+		<xp:tr>
+			<xp:td><a href="./addressbook11.xsp" target="preview">addressbook11</a></xp:td>
+			<xp:td><a href="./addressbook12.xsp" target="preview">addressbook12</a></xp:td>
+			<xp:td><a href="./addressbook13.xsp" target="preview">addressbook13</a></xp:td>
+			<xp:td><a href="./addressbook14.xsp" target="preview">addressbook14</a></xp:td>
+			<xp:td><a href="./addressbook15.xsp" target="preview">addressbook15</a></xp:td>
+		</xp:tr>
+		<xp:tr>
+			<xp:td><a href="./addressbook16.xsp" target="preview">addressbook16</a></xp:td>
+			<xp:td><a href="./addressbook17.xsp" target="preview">addressbook17</a></xp:td>
+			<xp:td><a href="./addressbook18.xsp" target="preview">addressbook18</a></xp:td>
+			<xp:td><a href="./addressbook19.xsp" target="preview">addressbook19</a></xp:td>
+			<xp:td><a href="./addressbook20.xsp" target="preview">addressbook20</a></xp:td>
+		</xp:tr>
+	</xp:table>
+	<xp:br></xp:br>
+	<iframe src="about:blank " name="preview" width="96%" height="500">
+	</iframe> 
+</xp:view>
