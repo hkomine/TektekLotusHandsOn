@@ -4,8 +4,8 @@
 		<xp:dominoView var="view1" viewName="AllContacts05"></xp:dominoView>
 		<xp:dominoDocument var="document1" formName="Contact05"></xp:dominoDocument>
 	</xp:this.data>
-	<xp:label value="AddressBook05" id="label1"
-		style="font-size:16pt;font-weight:bold">
+	<xp:label value="AddressBook05  文字色変更！" id="label1"
+		style="font-size:16pt;color:rgb(255,0,0);font-weight:bold;text-decoration:underline">
 	</xp:label>
 	<xp:table style="width:100%">
 		<xp:tr>
@@ -55,7 +55,7 @@
 						<xp:td style="background-color:rgb(245,245,245);height:10px"></xp:td>
 					</xp:tr>
 					<xp:tr>
-						<xp:td style="width:100.0px">
+						<xp:td style="width:100.0px;font-weight:bold;color:rgb(255,0,0)">
 							<xp:label value="姓(漢字)" id="altLastName_Label1" for="altLastName1">
 							</xp:label>
 						</xp:td>
@@ -65,7 +65,7 @@
 						</xp:td>
 					</xp:tr>
 					<xp:tr>
-						<xp:td style="width:100.0px">
+						<xp:td style="width:100.0px;font-weight:bold;color:rgb(255,0,0)">
 							<xp:label value="名(漢字)" id="altFirstName_Label1" for="altFirstName1">
 							</xp:label>
 						</xp:td>
@@ -75,7 +75,7 @@
 						</xp:td>
 					</xp:tr>
 					<xp:tr>
-						<xp:td style="width:100.0px">
+						<xp:td style="width:100.0px;font-weight:bold;color:rgb(255,0,0)">
 							<xp:label value="名(アルファベット)" id="firstName_Label1" for="firstName1">
 							</xp:label>
 						</xp:td>
@@ -86,7 +86,7 @@
 						</xp:td>
 					</xp:tr>
 					<xp:tr>
-						<xp:td style="width:100.0px">
+						<xp:td style="width:100.0px;font-weight:bold;color:rgb(255,0,0)">
 							<xp:label value="姓(アルファベット)" id="lastName_Label1" for="lastName1">
 							</xp:label>
 						</xp:td>
@@ -97,7 +97,7 @@
 						</xp:td>
 					</xp:tr>
 					<xp:tr>
-						<xp:td style="width:100.0px">
+						<xp:td style="width:100.0px;font-weight:bold;color:rgb(255,0,0)">
 							<xp:label value="電子メール" id="email_Label1" for="email1">
 							</xp:label>
 						</xp:td>
@@ -108,7 +108,7 @@
 						</xp:td>
 					</xp:tr>
 					<xp:tr>
-						<xp:td style="width:100.0px">
+						<xp:td style="width:100.0px;font-weight:bold;color:rgb(255,0,0)">
 							<xp:label value="都道府県" id="prefecture_Label1" for="prefecture1">
 							</xp:label>
 						</xp:td>
@@ -118,7 +118,7 @@
 						</xp:td>
 					</xp:tr>
 					<xp:tr>
-						<xp:td style="width:100.0px">
+						<xp:td style="width:100.0px;font-weight:bold;color:rgb(255,0,0)">
 							<xp:label value="市町村" id="city_Label1" for="city1">
 							</xp:label>
 						</xp:td>
