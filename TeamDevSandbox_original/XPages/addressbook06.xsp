@@ -4,7 +4,7 @@
 		<xp:dominoView var="view1" viewName="AllContacts06"></xp:dominoView>
 		<xp:dominoDocument var="document1" formName="Contact06"></xp:dominoDocument>
 	</xp:this.data>
-	<xp:label value="AddressBook06" id="label1"
+	<xp:label value="AddressBook06 by deguchi" id="label1"
 		style="font-size:16pt;font-weight:bold">
 	</xp:label>
 	<xp:table style="width:100%">
