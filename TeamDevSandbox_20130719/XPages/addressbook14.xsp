@@ -7,7 +7,7 @@
 	<xp:label value="AddressBook14" id="label1"
 		style="font-size:16pt;font-weight:bold">
 	</xp:label>
-	<xp:table style="width:100%">
+	kasamasa<xp:span style="background-color:rgb(128,255,255)"></xp:span><xp:table style="width:100%">
 		<xp:tr>
 			<xp:td>
 				<xp:viewPanel value="#{view1}" id="viewPanel1"
