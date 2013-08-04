@@ -52,7 +52,8 @@
 				</xp:viewPanel>
 			</xp:td>
 			<xp:td>
-				<xp:panel style="text-align:center;width:420px">
+				<xp:panel
+					style="text-align:center;width:420px;background-color:rgb(234,255,255)">
 					<xp:label value="連絡先データ" id="label2"
 						style="font-weight:bold;color:rgb(0,0,128)">
 					</xp:label>
